@@ -1,0 +1,8 @@
+# practice codes if and for and while
+#if condition
+a = 14
+b = 44
+if(a>b):
+    print("True")
+else:
+    print("False")
